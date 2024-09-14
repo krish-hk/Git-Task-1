@@ -11,5 +11,5 @@ so I downloaded the Desktop app and made it using vs code.
 4. made markdown file using .md as suffix after file_name
 5. git log -1 --format=%H - here log gets the history and -1 limits it to j the previous commit. and %H gives the commit hash
 6. merged in the app
-
+7. Edited the readme file in vs code and then used : git reset --soft HEAD~1
 (Learned basics of Git from https://learngitbranching.js.org/ but bcoz of the problem in pushing, I used the Desktop app)
